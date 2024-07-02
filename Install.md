@@ -1,5 +1,7 @@
 Ouvrir le fichier PowerPoint souhaité,
 
+Si un message apparaît, oui il faut activer la modification,
+
 ![](![](https://github.com/Alex-le-basque/Export-PowerPoint-PNG/blob/main/Ressources/Capture%20d'%C3%A9cran%202024-07-02%20125316.png?raw=true))
 
 Cliquer sur Fichier en haut à gauche, puis Exporter,
